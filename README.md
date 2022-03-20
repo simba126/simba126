@@ -29,20 +29,14 @@
 - and I also came into contact with **programming**.
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
-
-<img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/熊猫.jpg" />
-
+- 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I am currently a student of **Jishou University**.
-- 💻 Major is **Computer Science and Technology**.
-- 🌱 I'm currently learning **Web development and English**. 
+- 👨 I am a senior smart contract and full-stack developer.
 - 🤔 My hobbies are **playing chess and running**.
 - 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
-- This is my email: **yzplove99@gmail.com**.
-
-
+- This is my email: **ericbain1260@gmail.com**.
 
 
 **Languages and Tools:**  
